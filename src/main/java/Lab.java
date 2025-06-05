@@ -18,6 +18,13 @@ public class Lab {
      * @return any object.
      */
     public Object instantiateANewObject(){
-        return null;
+        System.out.println("No Arg");
+         
+         Object object = new Object();
+
+        return object;
+
     }
+
 }
+
